@@ -175,27 +175,13 @@ float64 travelled_distance
 
 ---
 
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
----
-
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-## ✍️ Authors
+## ✍️ Author
 
-- **Your Name** — [@your-username](https://github.com/your-username)  
-  Robotics Course — [University Name]
-
----
-
-## 🙏 Acknowledgments
-
-- Bunker Pro robot and `bunker_msgs` package
-- ROS2 community
-- Course instructors and teaching assistants
+- Francesco Monticone — [@francescomonticone](https://github.com/francescomonticone)  
+  Robotics Course — Politecnico di Milano
