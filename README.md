@@ -1,7 +1,9 @@
-# First Project - ROS2 Odometry for Bunker Pro
+<img width="1024" height="557" alt="image" src="https://github.com/user-attachments/assets/53fccdb0-89ae-410f-b89e-404a35347316" /># First Project - ROS2 Odometry for Bunker Pro
 
 [![ROS2](https://img.shields.io/badge/ROS2-Humble-blue)](https://docs.ros.org/en/humble/)
 [![Python](https://img.shields.io/badge/Python-3.10+-yellow)](https://www.python.org/)
+
+<img width="1024" height="557" alt="image" src="https://github.com/user-attachments/assets/f020e821-7222-44b6-9da4-6b6ff114e5ec" />
 
 **First Project** for the **Robotics course** — an odometry estimation system for a skid-steering robot (Bunker Pro) using ROS2.  
 The system computes wheel-based odometry, compares it against ground truth, and provides a reset service.
