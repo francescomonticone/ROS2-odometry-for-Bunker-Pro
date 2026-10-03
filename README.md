@@ -2,10 +2,11 @@
 [![ROS2](https://img.shields.io/badge/ROS2-Humble-blue)](https://docs.ros.org/en/humble/)
 [![Python](https://img.shields.io/badge/Python-3.10+-yellow)](https://www.python.org/)
 
-<img width="1024" height="557" alt="image" src="https://github.com/user-attachments/assets/f020e821-7222-44b6-9da4-6b6ff114e5ec" />
-
 **First Project** for the **Robotics course** — an odometry estimation system for a skid-steering robot (Bunker Pro) using ROS2.  
 The system computes wheel-based odometry, compares it against ground truth, and provides a reset service.
+
+<img width="1024" height="557" alt="image" src="https://github.com/user-attachments/assets/f020e821-7222-44b6-9da4-6b6ff114e5ec" />
+
 
 <img width="1375" height="738" alt="image" src="https://github.com/user-attachments/assets/f6e52fea-5dd9-40b4-a026-026bc06e0dc3" />
 
