@@ -6,6 +6,8 @@
 **First Project** for the **Robotics course** — an odometry estimation system for a skid-steering robot (Bunker Pro) using ROS2.  
 The system computes wheel-based odometry, compares it against ground truth, and provides a reset service.
 
+<img width="1375" height="738" alt="image" src="https://github.com/user-attachments/assets/f6e52fea-5dd9-40b4-a026-026bc06e0dc3" />
+
 ---
 
 ## 📦 Features
